@@ -42,15 +42,15 @@ Panchkhal and surrounding agricultural areas in Kavre District, Nepal. The regio
 | October 13, 2025 | 0.478 | 1.000 | -0.261 |
 
 ### Maps
-
-[NDVI_May.jpg]
+![May NDVI](NDVI_May.jpg)
 *Figure 1: NDVI distribution in May 2025 showing early crop establishment. Red areas indicate bare soil, green shows established vegetation.*
 
-[NDVI_September.jpg]
+![September NDVI](NDVI_September.jpg)
 *Figure 2: NDVI in September 2025 showing peak vegetation. Predominance of green indicates healthy crop canopies.*
 
-[NDVI_October.jpg]
+![October NDVI](NDVI_October.jpg)
 *Figure 3: NDVI in October 2025 showing mature crops approaching harvest.*
+
 
 ## Repository Contents
 ```

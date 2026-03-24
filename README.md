@@ -43,22 +43,22 @@ Panchkhal and surrounding agricultural areas in Kavre District, Nepal. The regio
 
 ### Maps
 
-![May NDVI](NDVI%20May-jpg)
+![May NDVI](NDVI_May.jpg)
 *Figure 1: NDVI distribution in May 2025 showing early crop establishment. Red areas indicate bare soil, green shows established vegetation.*
 
-![September NDVI](NDVI%20September-jpg)
+![September NDVI](NDVI_September.jpg)
 *Figure 2: NDVI in September 2025 showing peak vegetation. Predominance of green indicates healthy crop canopies.*
 
-![October NDVI](NDVI%20October-jpg)
+![October NDVI](NDVI_October.jpg)
 *Figure 3: NDVI in October 2025 showing mature crops approaching harvest.*
 
 ## Repository Contents
 ```
 ├── ndvi_analysis.py          # Main processing script
 ├── ndvi_summary.csv          # Summary statistics
-├── NDVI May-jpg              # May NDVI map
-├── NDVI September-jpg        # September NDVI map
-├── NDVI October-jpg          # October NDVI map
+├── NDVI_May.jpg              # May NDVI map
+├── NDVI_September.jpg        # September NDVI map
+├── NDVI_October.jpg          # October NDVI map
 └── README.md                 # This file
 ```
 
@@ -87,5 +87,9 @@ Sabina Pandit
 
 ## Acknowledgments
 Satellite data provided by the European Space Agency's Copernicus Programme.
+
+
+
+
 
 
